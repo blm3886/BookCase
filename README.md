@@ -1,6 +1,6 @@
 # BookCase
 
-## A JAVA OOP project involving system design to organize a bookshelf.
+## A JAVA OOP design project organize a bookshelf.
 - Books in the bookshlef are stored in non decreasing order of heights.
 - Books can books can only be added or removed from the ends.
 - User can perform two operations pick index(index of the book which has to be picked from the Bookshelf) 
